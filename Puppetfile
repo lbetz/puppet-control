@@ -1,1 +1,1 @@
-mod 'icinga/icinga2', 'v1.3.6'
+mod 'icinga-icinga2', '1.3.6'
