@@ -1,1 +1,2 @@
-mod 'icinga-icinga2', '1.3.6'
+mod 'puppetlabs-stdlib'
+mod 'puppetlabs-concat'
